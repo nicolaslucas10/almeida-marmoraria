@@ -211,19 +211,15 @@ a#lar{
 strong#mar{
   color: #1e57d3;
   text-shadow: 
-  -1px -1px 0 black,  
-  1px -1px 0 black,
-  -1px  1px 0 black,
-   1px  1px 0 black; /* Adiciona sombra em todas as direções para criar a borda */
+  -0.4px -0.4px 0 black,  
+  0.4px -0.4px 0 black,
+  -0.4px  0.4px 0 black,
+   0.4px  0.4px 0 black; /* Adiciona sombra em todas as direções para criar a borda */
     
 }
 a#strong {
   color: #1e57d3;
-  text-shadow: 
-        -0.5px -0.5px 0 black,  
-        0.5px -0.5px 0 black,
-        -0.5px  0.5px 0 black,
-         0.5px  0.5px 0 black; /* Adiciona sombra em todas as direções para criar a borda */
+ /* Adiciona sombra em todas as direções para criar a borda */
     font-size:16px; /* Ajuste conforme necessário */
     font-weight: bold;
     font-family: Arial, Helvetica, sans-serif;
