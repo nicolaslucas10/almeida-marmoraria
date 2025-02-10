@@ -198,15 +198,21 @@ a {
   outline: none;
 }
 
+
+a#lar{
+    color: #1e57d3;
+}
+
 a#strong {
   color: #1e57d3;
   text-shadow: 
-        -1px -1px 0 black,  
-        1px -1px 0 black,
-        -1px  1px 0 black,
-         1px  1px 0 black; /* Adiciona sombra em todas as direções para criar a borda */
-    font-size: 16px; /* Ajuste conforme necessário */
+        -0.5px -0.5px 0 black,  
+        0.5px -0.5px 0 black,
+        -0.5px  0.5px 0 black,
+         0.5px  0.5px 0 black; /* Adiciona sombra em todas as direções para criar a borda */
+    font-size: 20px; /* Ajuste conforme necessário */
     font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 h2#strong {
   color: #1e57d3;
