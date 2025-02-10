@@ -198,6 +198,11 @@ a {
   outline: none;
 }
 
+.my-spinner {
+  color: #1e57d3 !important; /* Azul personalizado */
+  border-color: #1e57d3 !important;
+}
+
 
 a#lar{
     color: #1e57d3;
