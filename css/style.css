@@ -203,6 +203,15 @@ a#lar{
     color: #1e57d3;
 }
 
+strong#mar{
+  color: #1e57d3;
+  text-shadow: 
+  -1px -1px 0 black,  
+  1px -1px 0 black,
+  -1px  1px 0 black,
+   1px  1px 0 black; /* Adiciona sombra em todas as direções para criar a borda */
+    
+}
 a#strong {
   color: #1e57d3;
   text-shadow: 
