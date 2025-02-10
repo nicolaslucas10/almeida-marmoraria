@@ -198,6 +198,26 @@ a {
   outline: none;
 }
 
+a#strong {
+  color: #1e57d3;
+  text-shadow: 
+        -1px -1px 0 black,  
+        1px -1px 0 black,
+        -1px  1px 0 black,
+         1px  1px 0 black; /* Adiciona sombra em todas as direções para criar a borda */
+    font-size: 20px; /* Ajuste conforme necessário */
+    font-weight: bold;
+}
+h2#strong {
+  color: #1e57d3;
+  text-shadow: 
+  -1px -1px 0 black,  
+  1px -1px 0 black,
+  -1px  1px 0 black,
+   1px  1px 0 black; /* Adiciona sombra em todas as direções para criar a borda */
+    font-size: 40px; /* Ajuste conforme necessário */
+    font-weight: bold;
+}
 .navbar .navbar-nav .nav-link:hover,
 .navbar .navbar-nav .nav-link.active {
   color: var(--primary);
