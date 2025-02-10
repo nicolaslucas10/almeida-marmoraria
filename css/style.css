@@ -230,7 +230,7 @@ h2#strong {
   1px -1px 0 black,
   -1px  1px 0 black,
    1px  1px 0 black; /* Adiciona sombra em todas as direções para criar a borda */
-    font-size: 32px; /* Ajuste conforme necessário */
+    font-size: 31px; /* Ajuste conforme necessário */
     font-weight: bold;
 }
 .navbar .navbar-nav .nav-link:hover,
