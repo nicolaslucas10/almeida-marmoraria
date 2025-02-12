@@ -204,6 +204,10 @@ a {
 }
 
 
+.me-3{
+  width: 150px;
+  height: auto;
+}
 a#lar{
     color: #1e57d3;
 }
