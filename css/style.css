@@ -212,6 +212,13 @@ a#lar{
     color: #1e57d3;
 }
 
+p#car{
+  text-shadow: 
+  -0.4px -0.4px 0 black,  
+  0.4px -0.4px 0 black,
+  -0.4px  0.4px 0 black,
+   0.4px  0.4px 0 black;
+}
 strong#mar{
   color: #1e57d3;
   text-shadow: 
