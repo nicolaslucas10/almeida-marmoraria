@@ -234,10 +234,10 @@ p#car{
 strong#mar{
   color: #5D9740;
   text-shadow: 
-  -0.4px -0.4px 0 black,  
-  0.4px -0.4px 0 black,
-  -0.4px  0.4px 0 black,
-   0.4px  0.4px 0 black; /* Adiciona sombra em todas as direções para criar a borda */
+  -0.5px -0.5px 0 black,  
+  0.5px -0.5px 0 black,
+  -0.5px  0.5px 0 black,
+   0.5px  0.5px 0 black; /* Adiciona sombra em todas as direções para criar a borda */
     
 }
 a#strong {
