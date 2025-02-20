@@ -199,8 +199,8 @@ a {
 }
 
 .my-spinner {
-  color: #1e57d3 !important; /* Azul personalizado */
-  border-color: #1e57d3 !important;
+  color: #5D9740 !important; /* Azul personalizado */
+  border-color: #5D9740 !important;
 }
 
 
@@ -209,7 +209,7 @@ a {
   height: auto;
 }
 a#lar{
-    color: #1e57d3;
+    color: #5D9740;
 }
 
 p#car{
@@ -220,7 +220,7 @@ p#car{
    0.4px  0.4px 0 black;
 }
 strong#mar{
-  color: #1e57d3;
+  color: #5D9740;
   text-shadow: 
   -0.4px -0.4px 0 black,  
   0.4px -0.4px 0 black,
@@ -229,14 +229,14 @@ strong#mar{
     
 }
 a#strong {
-  color: #1e57d3;
+  color: #5D9740;
  /* Adiciona sombra em todas as direções para criar a borda */
     font-size:16px; /* Ajuste conforme necessário */
     font-weight: bold;
     font-family: Arial, Helvetica, sans-serif;
 }
 h2#strong {
-  color: #1e57d3;
+  color: #5D9740;
   text-shadow: 
   -1px -1px 0 black,  
   1px -1px 0 black,
