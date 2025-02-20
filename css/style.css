@@ -213,8 +213,9 @@ a#lar{
 }
 
 .fs-7 {
-  font-size: 2px;
+  font-size: 12px !important;
 }
+
 
 p#car{
   text-shadow: 
