@@ -203,6 +203,12 @@ a {
   border-color: #5D9740 !important;
 }
 
+.gallery img {
+  
+  
+  height: 450px; /* Ajuste a altura conforme necessário */
+  object-fit: cover;
+}
 
 .me-3{
   width: 150px;
